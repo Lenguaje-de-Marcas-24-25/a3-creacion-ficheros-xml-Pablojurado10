@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<pedidos>
+    <pedido cod="1">
+        <fecha>05/09/2024</fecha>
+        <pu>45.5</pu>
+        <cantidad>4</cantidad>
+        <descripcion>Camiseta-Futbol</descripcion>
+        <tipo>C</tipo>
+    </pedido>
+    <pedido cod="2">
+        <fecha>05/09/2024</fecha>
+        <pu>25</pu>
+        <cantidad>1</cantidad>
+        <descripcion>Pelota</descripcion>
+        <tipo>A</tipo>
+    </pedido>
+    <pedido cod="3">
+        <fecha>05/09/2024</fecha>
+        <pu>21</pu>
+        <cantidad>5</cantidad>
+        <descripcion>pantalones</descripcion>
+        <tipo>B</tipo>
+    </pedido>
+    </pedidos>

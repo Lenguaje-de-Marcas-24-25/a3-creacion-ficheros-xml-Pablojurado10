@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ciudades>
+   <ciudad cod="1">
+      <nombre>Madrid</nombre>
+      <pais continente="Europa">España</pais>
+      <poblacion>3266126</poblacion>
+      <fundacion>Siglo IX</fundacion>
+      <descripcion>Capital de España, famosa por su arte, cultura y el estadio Santiago Bernabéu.</descripcion>
+   </ciudad>
+   <ciudad cod="2">
+      <nombre>Roma</nombre>
+      <pais continente="Europa">Italia</pais>
+      <poblacion>2873000</poblacion>
+      <fundacion>753 a.C.</fundacion>
+      <descripcion>Conocida como la Ciudad Eterna, hogar del Coliseo y el Vaticano.</descripcion>
+   </ciudad>
+   <ciudad cod="3">
+      <nombre>Berlín</nombre>
+      <pais continente="Europa">Alemania</pais>
+      <poblacion>3644826</poblacion>
+      <fundacion>1237</fundacion>
+      <descripcion>Capital alemana, famosa por su historia, el Muro de Berlín y su vida cultural.</descripcion>
+   </ciudad>
+   <ciudad cod="4">
+      <nombre>Buenos Aires</nombre>
+      <pais continente="América">Argentina</pais>
+      <poblacion>3075646</poblacion>
+      <fundacion>1536</fundacion>
+      <descripcion>Capital de Argentina, reconocida por su arquitectura europea y el tango.</descripcion>
+   </ciudad>
+</ciudades>
